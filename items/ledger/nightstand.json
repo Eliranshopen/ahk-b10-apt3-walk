@@ -1,0 +1,22 @@
+{
+ "cap_usd": 15,
+ "item": "nightstand",
+ "note": "reserve before send, settle after",
+ "rows": [
+  {
+   "seq": 1,
+   "at": "2026-11-18T09:10:35.037Z",
+   "item": "nightstand",
+   "op": "spec",
+   "model": "openrouter/router/vision",
+   "reserved_usd": 0.005,
+   "status": "reserved",
+   "inputs_hash": "50a35d8064e3262e688ec891ae77f4d21d4c6548d62c61042a3a70f6c2d34d41",
+   "queue": {
+    "request_id": "01a1edec-21c3-7eb0-9772-2a010f7d8cb5",
+    "status_url": "https://queue.fal.run/openrouter/router/requests/01a1edec-21c3-7eb0-9772-2a010f7d8cb5/status",
+    "response_url": "https://queue.fal.run/openrouter/router/requests/01a1edec-21c3-7eb0-9772-2a010f7d8cb5"
+   }
+  }
+ ]
+}

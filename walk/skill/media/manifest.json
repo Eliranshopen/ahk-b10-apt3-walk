@@ -1,0 +1,33 @@
+{
+ "walk_bin_sha16": "f1aca12ff3e89a7b",
+ "atlases": {
+  "morning/0": "7f6ea0daf8356884",
+  "morning/1": "25b360d3655f1a84",
+  "morning/2": "c110527cfa06d764",
+  "morning/3": "1ed05ebef00097ad",
+  "morning/4": "93bf5d60104ff57c",
+  "morning/5": "355edef8c9dec05d",
+  "morning/6": "92483c8e273e3eb7",
+  "noon/0": "6074ef6a3c576199",
+  "noon/1": "1f34402b663e82e9",
+  "noon/2": "987b9af7a21a531f",
+  "noon/3": "74fe57e454dbf88f",
+  "noon/4": "aacc9c27d0288c4d",
+  "noon/5": "20bf35ac9090065b",
+  "noon/6": "d26811ebafaf2e99",
+  "golden/0": "0e6979967f86af1b",
+  "golden/1": "21c792b70ded34cb",
+  "golden/2": "8f501484d459f3ba",
+  "golden/3": "ea4f31790d886141",
+  "golden/4": "ed2ff072871e6058",
+  "golden/5": "595f87b55d8f0b4b",
+  "golden/6": "8b25f5ce9069ee6b",
+  "night/0": "14c73952f1e761c2",
+  "night/1": "ef1a14498d5c195f",
+  "night/2": "96f6ad7cd96392fc",
+  "night/3": "dd53d803536c85e9",
+  "night/4": "470ae0170d4602aa",
+  "night/5": "84ad32362985f2dd",
+  "night/6": "9abc3808a71a7877"
+ }
+}
